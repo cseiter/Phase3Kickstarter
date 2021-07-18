@@ -88,3 +88,4 @@ ProjectBacker is also a great example of how awesome object orientation is
 — we can use OO to represent real-world relationships and classes to
 represent _things_. But sometimes, when we need more flexibility, classes can
 exist purely to represent a _relationship_.
+# Phase3Kickstarter
